@@ -1,1 +1,2 @@
-﻿Console.WriteLine("Hello Snake");
+﻿Console.WriteLine("Hello Sssssssnake");
+Console.Read();
