@@ -1,2 +1,4 @@
 ﻿Console.WriteLine("Hello Sssssssnake");
-Console.Read();
+Console.Clear();
+Thread.Sleep(1000);
+Console.Read();  
